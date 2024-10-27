@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Git Repo</string>
+    <string name="repository_owner">Owner: %1$s</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="download_zip">Download .zip</string>
+    <string name="download_start">Start download</string>
+    <string name="search">Search</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="owner_avatar_image">Owner avatar image</string>
+    <string name="need_permission">You must provide all download permissions</string>
+    <string name="example_google">Example: Google</string>
+    <string name="search_failed">Repository search failed</string>
+    <string name="permission_failed">You must provide all download permissions</string>
+</resources>
